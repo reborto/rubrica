@@ -1,0 +1,2 @@
+# rubrica
+rubrica esempio
